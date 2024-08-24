@@ -51,7 +51,7 @@ To run the model and make predictions:
     ```
 
 ## Results
-The models were evaluated using various metrics, including Spearman's correlation, to ensure the predictions' reliability. Notably, the **XGBoost** model outperformed **Random Forest** in this task, achieving higher correlations.
+The models were evaluated using various metrics, including Spearman's correlation, to ensure the predictions reliability. Notably, the **XGBoost** model outperformed **Random Forest** in this task, achieving higher correlations.
 
 ## License
 This project is licensed under the MIT License. 
